@@ -54,3 +54,6 @@ Contributions to the YouTube Clone project are welcome. If you find any issues o
 The YouTube Clone project is open source and available under the [MIT License](LICENSE). Feel free to modify and use the code for your own purposes.
 
 
+![Screenshot from 2023-05-31 11-27-54](https://github.com/Sasa405/youtube_clone/assets/118745186/7ceede0a-3fb4-4159-a4aa-0a48ec9cf369)
+
+
